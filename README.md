@@ -9,9 +9,9 @@ kitti数据集下载地址：https://www.cvlibs.net/datasets/kitti/eval_object.p
 以下是本项目中使用的模型和工具箱的列表，包括它们的简介、GitHub链接和引用格式。
 
 ## 1. MMDetection
-- **简介**：MMDetection是一个开源的目标检测工具箱，基于PyTorch。
-- **GitHub链接**：[open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection)
-- **引用格式**：
+- 简介：MMDetection是一个开源的目标检测工具箱，基于PyTorch。
+- GitHub链接：[open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection)
+- 引用格式：
   ```
   @article{mmdetection,
   title   = {{MMDetection}: Open MMLab Detection Toolbox and Benchmark},
@@ -27,9 +27,9 @@ kitti数据集下载地址：https://www.cvlibs.net/datasets/kitti/eval_object.p
   ```
 
 ## 2. YOLOv8
-- **简介**：YOLOv8是一个最新的实时目标检测模型。
-- **GitHub链接**：[Pertical/YOLOv8](https://github.com/Pertical/YOLOv8)
-- **引用格式**：
+- 简介：YOLOv8是一个最新的实时目标检测模型。
+- GitHub链接：[Pertical/YOLOv8](https://github.com/Pertical/YOLOv8)
+- 引用格式：
   ```
   @article{yolov8,
   title={YOLOv8: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors},
@@ -40,9 +40,9 @@ kitti数据集下载地址：https://www.cvlibs.net/datasets/kitti/eval_object.p
   ```
 
 ## 3. YOLOv7
-- **简介**：YOLOv7是一个实时目标检测模型，具有高性能。
-- **GitHub链接**：[WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7)
-- **引用格式**：
+- 简介：YOLOv7是一个实时目标检测模型，具有高性能。
+- GitHub链接：[WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7)
+- 引用格式：
   ```
   @inproceedings{wang2023yolov7,
   title={{YOLOv7}: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors},
@@ -53,9 +53,9 @@ kitti数据集下载地址：https://www.cvlibs.net/datasets/kitti/eval_object.p
   ```
 
 ## 4. Vision Transformer
-- **简介**：Vision Transformer是一个使用Transformer架构进行图像识别的模型。
-- **GitHub链接**：[google-research/vision_transformer](https://github.com/google-research/vision_transformer)
-- **引用格式**：
+- 简介：Vision Transformer是一个使用Transformer架构进行图像识别的模型。
+- GitHub链接：[google-research/vision_transformer](https://github.com/google-research/vision_transformer)
+- 引用格式：
   ```
   @article{dosovitskiy2020vit,
   title={An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale},
@@ -66,9 +66,9 @@ kitti数据集下载地址：https://www.cvlibs.net/datasets/kitti/eval_object.p
   ```
 
 ## 5. ResNet 50
-- **简介**：ResNet 50是一个深度残差网络，用于图像识别。
-- **GitHub链接**：[matlab-deep-learning/resnet-50](https://github.com/matlab-deep-learning/resnet-50)
-- **引用格式**：
+- 简介**：ResNet 50是一个深度残差网络，用于图像识别。
+- GitHub链接：[matlab-deep-learning/resnet-50](https://github.com/matlab-deep-learning/resnet-50)
+- 引用格式：
   ```
   @article{he2016deep,
     title={Deep Residual Learning for Image Recognition},
@@ -82,9 +82,9 @@ kitti数据集下载地址：https://www.cvlibs.net/datasets/kitti/eval_object.p
   ```
 
 ## 6. EfficientNetV2
-- **简介**：EfficientNetV2是一系列高效的图像分类模型。
-- **GitHub链接**：[google/automl/efficientnetv2](https://github.com/google/automl/blob/master/efficientnetv2/README.md)
-- **引用格式**：
+- 简介：EfficientNetV2是一系列高效的图像分类模型。
+- GitHub链接：[google/automl/efficientnetv2](https://github.com/google/automl/blob/master/efficientnetv2/README.md)
+- 引用格式：
   ```
   @article{efficientnetv2,
     title={EfficientNetV2: Smaller Models and Faster Training},
@@ -95,9 +95,9 @@ kitti数据集下载地址：https://www.cvlibs.net/datasets/kitti/eval_object.p
   ```
 
 ## 7. DiffusionDet
-- **简介**：DiffusionDet是用于目标检测的扩散模型。
-- **GitHub链接**：[ShoufaChen/DiffusionDet](https://github.com/ShoufaChen/DiffusionDet)
-- **引用格式**：
+- 简介：DiffusionDet是用于目标检测的扩散模型。
+- GitHub链接：[ShoufaChen/DiffusionDet](https://github.com/ShoufaChen/DiffusionDet)
+- 引用格式：
   ```
   @article{chen2022diffusiondet,
   title={DiffusionDet: Diffusion Model for Object Detection},
@@ -108,9 +108,9 @@ kitti数据集下载地址：https://www.cvlibs.net/datasets/kitti/eval_object.p
   ```
 
 ## 8. EfficientDet
-- **简介**：EfficientDet是一系列高效的目标检测模型。
-- **GitHub链接**：[google/automl/efficientdet](https://github.com/google/automl/blob/master/efficientdet/README.md)
-- **引用格式**：
+- 简介：EfficientDet是一系列高效的目标检测模型。
+- GitHub链接：[google/automl/efficientdet](https://github.com/google/automl/blob/master/efficientdet/README.md)
+- 引用格式：
   ```
   @article{efficientdet,
     title={EfficientDet: Scalable and Efficient Object Detection},
@@ -121,5 +121,5 @@ kitti数据集下载地址：https://www.cvlibs.net/datasets/kitti/eval_object.p
   ```
 ```
 
-请注意，对于EfficientNetV2的作者和引用格式，我使用了占位符`XXX`，因为实际的作者名单在您提供的信息中没有给出。您应该替换为实际的作者名单。
+
 
